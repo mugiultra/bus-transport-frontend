@@ -95,7 +95,7 @@ npm run build
 
 📊 Project Presentation (PPT)
 
-[Download Project PPT](https://github.com/mugiultra/bus-transport-frontend/blob/main/Bus_Management_System_Project.pdf)
+[Download Project PPT](https://github.com/mugiultra/bus-transport-frontend/blob/main/Bus-Transport-Management-System.pptx)
 
 📷 Screenshots
 
