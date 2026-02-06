@@ -95,7 +95,7 @@ npm run build
 
 📊 Project Presentation (PPT)
 
-(Add Google Drive / GitHub / OneDrive link here)
+[Download Project PPT](Bus-Transport-Management-System.pptx)
 
 📷 Screenshots
 
