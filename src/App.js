@@ -11,7 +11,7 @@ import TimetableManagement from './components/TimetableManagement';
 import AdminModule from './components/AdminModule';
 import UserModule from './components/UserModule';
 
-function App() {
+ function App() {
   return (
     <Router>
       <div className="App">
